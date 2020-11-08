@@ -10,6 +10,7 @@ import android.os.BatteryManager;
 import android.os.Build;
 import android.os.Bundle;
 import android.widget.TextView;
+//
 
 public class MainActivity extends AppCompatActivity {
 

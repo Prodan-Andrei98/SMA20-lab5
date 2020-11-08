@@ -9,7 +9,7 @@ import android.util.Log;
 
 import androidx.core.app.NotificationCompat;
 import androidx.core.app.NotificationManagerCompat;
-
+//
 public class PowerConnectionReceiver extends BroadcastReceiver {
 
     String chargingStatus, capacityStatus, chargingMode;
